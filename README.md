@@ -1,0 +1,2 @@
+# WalletStockBot
+Exchange rates
